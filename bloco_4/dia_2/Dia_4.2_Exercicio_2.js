@@ -7,4 +7,4 @@ for(index = 0; index < numbers.length; index++) {
     somaDosNumeros = somaDosNumeros + numbers[index];
 }
 
-console.log(somaDosNumeros)
+console.log(somaDosNumeros);

@@ -6,7 +6,7 @@ let numerosImpar = 0;
 for (var index = 0; index < numbers.length; index += 1) {
    if (numbers[index] % 2 != 0) {
       numerosImpar += 1;
-   }
+   } 
 }
 
 if(numerosImpar === 0) {
